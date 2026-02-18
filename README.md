@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**rajat1155-rrrkk/rajat1155-rrrkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Rajat K - Salesforce & CRM Project Manager
 
-Here are some ideas to get you started:
+Technical Project Manager with **10+ years** of progressive experience in delivering complex projects across **Salesforce, Cloud Solutions, and CRM/ERP Integrations**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 About Me
+
+- 🌐 Based in Noida, Uttar Pradesh, India
+- 💼 Specialized in **Salesforce Delivery Architecture** | Sales Cloud | Service Cloud | Experience Cloud
+- 🚀 **Enterprise Salesforce Delivery & Architecture** | Cloud solutions | CRM/ERP integrations
+- 🤝 Partner Relationship Management & Customer Communication Expert
+- 📊 Proven track record in successful project delivery and stakeholder management
+
+### 🛠️ Core Competencies
+
+- **Project Management**: Agile, Waterfall, Hybrid methodologies
+- **Salesforce Solutions**: Sales Cloud, Service Cloud, Experience Cloud
+- **Technologies**: Salesforce, Apex, SOQL, REST APIs, Integrations
+- **Cloud Platforms**: AWS, Azure, Salesforce Cloud
+- **ERP Integrations**: CRM/ERP system implementation and optimization
+
+### 📱 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajat1561/)
+- 📧 Email: rajat.khitoliya15@gmail.com
+- 🔗 [GitHub](https://github.com/rajat1155-rrrkk)
+
+### 📈 Current Focus
+
+- 🔍 Exploring advanced Salesforce architecture patterns
+- 📚 Continuous learning & skill enhancement
+- 🤝 Open to collaboration on innovative Salesforce & CRM projects
+
+---
+
+*"Transforming business challenges into scalable Salesforce solutions"*

@@ -1,12 +1,12 @@
 # Hi there 👋
 
-## I'm Rajat K - Salesforce & CRM Project Manager
+## I'm Rajat - Salesforce & CRM Project Manager
 
 Technical Project Manager with **10+ years** of progressive experience in delivering complex projects across **Salesforce, Cloud Solutions, and CRM/ERP Integrations**.
 
 ### 🎯 About Me
 
-- 🌐 Based in Noida, Uttar Pradesh, India
+- 🌐 Based in Delhi/Noida, India
 - 💼 Specialized in **Salesforce Delivery Architecture** | Sales Cloud | Service Cloud | Experience Cloud
 - 🚀 **Enterprise Salesforce Delivery & Architecture** | Cloud solutions | CRM/ERP integrations
 - 🤝 Partner Relationship Management & Customer Communication Expert
@@ -23,7 +23,6 @@ Technical Project Manager with **10+ years** of progressive experience in delive
 ### 📱 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajat1561/)
-- 📧 Email: rajat.khitoliya15@gmail.com
 - 🔗 [GitHub](https://github.com/rajat1155-rrrkk)
 
 ### 📈 Current Focus

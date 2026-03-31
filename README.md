@@ -1,10 +1,10 @@
-# Hi there 👋
+# Hi there 
 
-## Rajat | Salesforce Architect | CRM Automation | Enterprise Integrations
+## | Salesforce Architect | CRM Automation | Enterprise Integrations
 
-Technical leader with 10+ years of experience designing and delivering scalable Salesforce and CRM/ERP integration architectures.
+Technical professional with 10+ years of experience designing and delivering scalable Salesforce and CRM/ERP integration architectures.
 
-I specialize in enterprise CRM automation, workflow design, and integration strategy across complex cloud ecosystems.
+Experience in enterprise CRM automation, workflow design, and integration strategy across complex cloud ecosystems.
 
 ---
 
@@ -17,9 +17,6 @@ Enterprise-style CRM automation architecture simulation including:
 - Opportunity Stage Validation
 - CRM API Integration Simulation Layer
 - Modular design with unit testing
-
-Repository:
-https://github.com/rajat1155-rrrk/crm-automation-lab
 
 ---
 
@@ -42,10 +39,3 @@ https://github.com/rajat1155-rrrk/crm-automation-lab
 - Cloud-based deployment architectures
 
 ---
-
-## 📍 Based in Delhi/Noida, India  
-Open to enterprise Salesforce architecture and integration engagements.
-
----
-
-"Designing scalable CRM systems that align business logic with technical architecture."
